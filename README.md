@@ -8,9 +8,9 @@
 
 ## 🚀 Currently
 
-🌾 Agricultural insurance @ Ensoag  
-🚜 Management systems @ Peão Digital  
-🤖 ML for medical predictions
+🌾 **Full Stack Developer** @ Ensoag - Agricultural insurance platforms  
+🚜 **Founder & Frontend Lead** @ Peão Digital - Agro-industrial management systems  
+🤖 **ML Researcher** - Medical prediction models
 
 ## 💻 Stack
 
@@ -18,7 +18,7 @@ React • Angular • Python • Django • Node.js • AWS • PostgreSQL • M
 
 ## 🌟 Featured
 
-- [Transplant-Rejection-ML](link) - ML kidney prediction (XGBoost, AUC 0.89)
+- [Transplant-Rejection-ML](https://github.com/AthirsonLamonato/Transplant-Rejection-ML) - ML kidney prediction (XGBoost, AUC 0.89)
 
 ## 📫 Contact
 
