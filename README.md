@@ -19,8 +19,6 @@ React • Angular • Python • Django • Node.js • AWS • PostgreSQL • M
 ## 🌟 Featured
 
 - [Transplant-Rejection-ML](link) - ML kidney prediction (XGBoost, AUC 0.89)
-- [Aluguel-de-Carros](link) - Django car rental system
-- [SearchTech](link) - Software analysis project
 
 ## 📫 Contact
 
