@@ -38,11 +38,11 @@
 
 ### [🤖 Transplant-Rejection-ML](https://github.com/AthirsonLamonato/Transplant-Rejection-ML)
 Machine Learning system for kidney transplant rejection prediction (XGBoost, AUC-ROC 0.89)  
-`Python` `ML` `XGBoost` `Data Science`
+`Python` `Machine Learning` `XGBoost` `Data Mining` `MongoDB`
 
 ### [🚗 Aluguel-de-Carros](https://github.com/AthirsonLamonato/Aluguel-de-Carros)
 Complete car rental management system with Django Admin  
-`Django` `Python` `PostgreSQL`
+`Django` `PostgreSQL` `HTML` `CSS` `JavaScript` `Python` `Django`
 
 ### [🔍 SearchTech](https://github.com/AthirsonLamonato/SearchTech)
 Software analysis and design project  
@@ -50,7 +50,7 @@ Software analysis and design project
 
 ### [💼 CatalogoFilmes](https://github.com/AthirsonLamonato/Catalogo-de-Filmes)
 Personal portfolio website  
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `Python` `Django`
 
 ---
 
