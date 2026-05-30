@@ -14,7 +14,7 @@
 
 ## 💻 Stack
 
-React • Angular • Python • Django • Node.js • AWS • PostgreSQL • MongoDB
+React • Angular • Python • Django • PHP • Node.js • AWS • PostgreSQL • MongoDB
 
 ## 🌟 Featured
 
