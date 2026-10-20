@@ -8,7 +8,7 @@
 
 ## 🚀 Currently
 
-🌾 **Full Stack Developer** @ Ensoag - Agricultural insurance platforms  
+🌾 **Full Stack Developer** @ Elevor - Enterprise Resource Planning (ERP) System
 🚜 **Founder & Frontend Lead** @ Peão Digital - Agro-industrial management systems  
 🤖 **ML Researcher** - Medical prediction models
 
